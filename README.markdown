@@ -1,3 +1,5 @@
+BART
+
 # Puppet Labs Standard Library #
 
 [![Build Status](https://travis-ci.org/puppetlabs/puppetlabs-stdlib.png?branch=master)](https://travis-ci.org/puppetlabs/puppetlabs-stdlib)
